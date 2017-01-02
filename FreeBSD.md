@@ -18,6 +18,9 @@ Sol.1 Allow IP from outside
 
 Sol.2 restart ipfw
 
+### Related Problem
+WebDev. WordPress Something Wrong in Connecting Theme, RSS, and Plugins
+
 ## #2 [pkg] kernel missing linux support
 
 ### Problem Des.
