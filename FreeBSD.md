@@ -1,4 +1,4 @@
-## #1 packagesite.txz permission denied
+## #1 [pkg] packagesite.txz permission denied
 
 ### Problem Des.
 
@@ -17,3 +17,16 @@ All repositories are up-to-date.
 Sol.1 Allow IP from outside
 
 Sol.2 restart ipfw
+
+## #2 [pkg] kernel missing linux support
+
+### Problem Des.
+
+```
+[1/2]  Installing linux_base-c6-6.8_1...
+Cannot install package: kernel missing Linux support
+```
+
+### Problem Sol.
+
+Sol. ```kldload linux``` and re-run the command.
