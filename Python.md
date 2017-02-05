@@ -17,3 +17,11 @@ http://stackoverflow.com/questions/11520492/difference-between-del-remove-and-po
 # Communicate() vs Wait()
 
 http://blog.csdn.net/carolzhang8406/article/details/22286913
+
+# How to find the mime type of a file in python?
+
+## 1. importing magic
+http://stackoverflow.com/questions/43580/how-to-find-the-mime-type-of-a-file-in-python?noredirect=1&lq=1
+
+## 2. using unix file command
+http://stackoverflow.com/questions/6640605/detecting-if-a-file-is-an-image-in-python
