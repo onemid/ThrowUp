@@ -7,3 +7,7 @@ http://www.cowburn.info/2010/04/30/glob-patterns/
 # How to get coloured terminal over ssh?
 
 http://askubuntu.com/questions/16336/how-to-get-coloured-terminal-over-ssh
+
+# Ubuntu 讀取 .bashrc 和 .bash_profile 檔案的時機
+
+http://www.arthurtoday.com/2015/04/difference-between-bashrc-and-bash-profile.html
