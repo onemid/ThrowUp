@@ -11,3 +11,7 @@ http://askubuntu.com/questions/16336/how-to-get-coloured-terminal-over-ssh
 # Ubuntu 讀取 .bashrc 和 .bash_profile 檔案的時機
 
 http://www.arthurtoday.com/2015/04/difference-between-bashrc-and-bash-profile.html
+
+# How To Read and Set Environmental and Shell Variables on a Linux VPS
+
+https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-a-linux-vps
