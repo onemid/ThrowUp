@@ -25,3 +25,11 @@ http://stackoverflow.com/questions/43580/how-to-find-the-mime-type-of-a-file-in-
 
 ## 2. using unix file command
 http://stackoverflow.com/questions/6640605/detecting-if-a-file-is-an-image-in-python
+
+# Simple parallelization
+
+https://blog.dominodatalab.com/simple-parallelization/
+
+# Import Script from a Parent Directory
+
+http://stackoverflow.com/questions/8951255/import-script-from-a-parent-directory
