@@ -23,3 +23,8 @@ As Title
 ### Problem Sol.
 
 Sol. Using Cached Pages 庫頁存檔 (Google or anywhere) to rebuild, but the page you just deleted should be public.
+
+## #3 [phpexcel] Formula Error.
+
+### Problem Sol.
+https://stackoverflow.com/questions/33439187/prevent-phpexcel-to-calculate-values-when-writing-to-file
